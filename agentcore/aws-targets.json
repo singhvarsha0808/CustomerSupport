@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "default",
+    "description": "Default target (ap-southeast-1)",
+    "account": "709609992277",
+    "region": "ap-southeast-1"
+  }
+]
